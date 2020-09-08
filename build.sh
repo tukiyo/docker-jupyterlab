@@ -1,1 +1,1 @@
-docker build . -t jupyter
+docker build . -t tukiyo3/jupyter
